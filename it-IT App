@@ -17,94 +17,94 @@
 // General - App
 
 "WeatherLine" = "Weather Line";
-"Settings" = "Settings";
-"Done" = "Done";
-"Cancel" = "Cancel";
+"Settings" = "Impostazioni";
+"Done" = "Fatto";
+"Cancel" = "Annulla";
 "On" = "On";
 "Off" = "Off";
 "–" = "–";
-"None" = "None";
+"None" = "Nessuno";
 "Reset" = "Reset";
-"Skip" = "Skip";
+"Skip" = "Salta";
 "By" = "By";
 "Of" = "Of"; // as in 1 of 3 pages
 
-"Report a Bug" = "Report a Bug";
-"Report a Data Problem" = "Report a Data Problem";
-"Request a Feature" = "Request a Feature";
-"Ask a Question" = "Ask a Question";
-"Cancel" = "Cancel";
+"Report a Bug" = "Segnala un Bug";
+"Report a Data Problem" = "Segnala un Problema con i Dati";
+"Request a Feature" = "Suggerisci nuove Funzioni";
+"Ask a Question" = "Fai una Domanda";
+"Cancel" = "Annulla";
 
-"Rename" = "Rename";
-"Continue" = "Continue";
-"Never" = "Never";
-"Status" = "Status";
-"Manage" = "Manage";
-"Type" = "Type"; // as in type of something (noun), not action to type (verb)
-"Expires" = "Expires";
-"RestorePurchases" = "Restore Purchases";
-"Upgrade To" = "Upgrade To";
+"Rename" = "Rinomina";
+"Continue" = "Continua";
+"Never" = "Mai";
+"Status" = "Stato";
+"Manage" = "Modifica";
+"Type" = "Tipologia"; // as in type of something (noun), not action to type (verb)
+"Expires" = "Scadenza";
+"RestorePurchases" = "Riprisitna Acquisti";
+"Upgrade To" = "Aggiorna a";
 
-"What's New in Weather Line" = "What's New\nin Weather Line";
-"What's New" = "What's New";
+"What's New in Weather Line" = "Novità di Weather Line";
+"What's New" = "Novità";
 
 // General - Time-based
 
-"Hours" = "Hours";
-"Hour" = "Hour";
-"Day" = "Day";
-"Days" = "Days";
-"Week" = "Week";
-"Weeks" = "Weeks";
-"Month" = "Month";
-"Months" = "Months";
+"Hours" = "Ore";
+"Hour" = "Ora";
+"Day" = "Giorno";
+"Days" = "Giorni";
+"Week" = "Settimana";
+"Weeks" = "Settimane";
+"Month" = "Mese";
+"Months" = "Mesi";
 
-"Hourly" = "Hourly";
-"Daily" = "Daily";
+"Hourly" = "Orario";
+"Daily" = "Giornaliero";
 
-"AddMyLocation" = "Add My Location";
+"AddMyLocation" = "Aggiungi la mia Posizione";
 
 // Toasts - Forecast Refreshing
 
-"Updating" = "Updating...";
-"LastUpdated" = "Last updated";
+"Updating" = "Aggiorno...";
+"LastUpdated" = "Ultimo Aggiornamento";
 "Offline" = "Offline";
-"Unknown" = "Unknown";
+"Unknown" = "Sconosciuto";
 
 // Settings
 
-"UpgradeToSuperchargeTitle" = "Upgrade to Supercharge";
-"EmptyLocationList-Header" = "No Locations";
-"EmptyLocationList-Message" = "Use the top menu to add a location";
-"AddANewLocation" = "Add a new location";
-"DeleteALocation" = "Delete an existing location to add a new one";
-"ManageLocationsTitle" = "Locations";
+"UpgradeToSuperchargeTitle" = "Aggiorna a Supercharge";
+"EmptyLocationList-Header" = "Nessuna Posizione";
+"EmptyLocationList-Message" = "Usa il menu in alto per aggiungere una nuova Posizione";
+"AddANewLocation" = "Aggiungi un Luogo";
+"DeleteALocation" = "Cancella un luogo esistente e aggiungine uno nuovo";
+"ManageLocationsTitle" = "Località";
 "WidgetTitle" = "Widget";
-"LaunchMode" = "Launch Style";
-"ManageAdsTitle" = "Ads";
-"ManageAccountTitle" = "Subscription";
-"ManageThemeTitle" = "Theme";
-"AppIconTitle" = "App Icon";
-"WeatherData" = "Weather Data";
-"WeatherDataTitle" = "Data Source";
+"LaunchMode" = "Modalità di Avvio";
+"ManageAdsTitle" = "Pubblicità";
+"ManageAccountTitle" = "Abbonamenti";
+"ManageThemeTitle" = "Tema";
+"AppIconTitle" = "Icona Applicazione";
+"WeatherData" = "Fonte dati Meteo";
+"WeatherDataTitle" = "Fonte Dati";
 "ManageRadarTitle" = "Radar";
-"MoonPhasesTitle" = "Moon Phases";
-"ManageUnitsTitle" = "Units";
-"ManageTemperatureTitle" = "Temperature Type";
-"Legend" = "Legend";
-"ContactUs" = "Contact Us";
-"RateWeatherLine" = "Rate App";
-"ShareApp" = "Share App";
-"FollowWeatherLine" = "Follow Us";
-"ManageSubscription" = "Manage Subscription";
-"Acknowledgments" = "Acknowledgments";
-"ShowWalkthrough" = "Show App Walkthrough";
+"MoonPhasesTitle" = "Fasi Lunari";
+"ManageUnitsTitle" = "Unità";
+"ManageTemperatureTitle" = "Temperatura";
+"Legend" = "Legenda";
+"ContactUs" = "Contattaci";
+"RateWeatherLine" = "Vota l'App";
+"ShareApp" = "Condividi l'App";
+"FollowWeatherLine" = "Seguici";
+"ManageSubscription" = "Gestisci l'Abbonamento";
+"Acknowledgments" = "Riconoscimenti";
+"ShowWalkthrough" = "Mostra guida inziale";
 
 // Settings section headers
 
-"Locations" = "Locations";
-"Appearance" = "Appearance";
-"Other" = "Other";
+"Locations" = "Luoghi";
+"Appearance" = "Aspetto";
+"Other" = "Altro";
 
 // Settings subpages
 
